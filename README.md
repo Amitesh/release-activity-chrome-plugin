@@ -1,2 +1,1 @@
-# release-activity-chrome-plugin
-A small utility chrome plugin to prepare the list of activities/story from JIRA dashboard page.
+Example code for my article on building a simple Google Chrome extension.
